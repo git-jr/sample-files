@@ -2,2100 +2,2123 @@
   {
     "id": "1231",
     "categoryId": "123",
-    "content": "A linha do Equador cruza a Indonésia?",
+    "content": "A Amazônia é a maior floresta tropical do mundo?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "1232",
     "categoryId": "123",
-    "content": "A Cordilheira dos Andes é a mais longa do mundo?",
+    "content": "O Monte Everest é a montanha mais alta da Terra?",
     "image": "",
     "correct": true
   },
   {
     "id": "1233",
     "categoryId": "123",
-    "content": "O Japão faz parte do continente asiático?",
-    "image": "",
-    "correct": true
-  },
-  {
-    "id": "1234",
-    "categoryId": "123",
-    "content": "O deserto do Atacama está no Brasil?",
+    "content": "A Austrália é um continente?",
     "image": "",
     "correct": true
   },
   {
     "id": "1235",
     "categoryId": "123",
-    "content": "A Groenlândia é a maior ilha do mundo?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "1236",
-    "categoryId": "123",
-    "content": "O rio Nilo é o mais longo do mundo?",
+    "content": "O rio Nilo é o mais longo da África?",
     "image": "",
     "correct": true
   },
   {
     "id": "1237",
     "categoryId": "123",
-    "content": "A linha do Equador passa pelo Brasil?",
+    "content": "O Japão é um arquipélago?",
     "image": "",
     "correct": true
   },
   {
     "id": "1238",
     "categoryId": "123",
-    "content": "A Antártica é o menor continente do mundo?",
+    "content": "A Antártica é um deserto?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "1239",
     "categoryId": "123",
-    "content": "O Canadá tem mais lagos do que qualquer outro país?",
+    "content": "O Saara é o maior deserto quente do mundo?",
     "image": "",
     "correct": true
   },
   {
     "id": "12310",
     "categoryId": "123",
-    "content": "O Brasil faz parte da América do Sul?",
+    "content": "A Grécia tem mais de mil ilhas?",
     "image": "",
     "correct": true
   },
   {
     "id": "12311",
     "categoryId": "123",
-    "content": "A França está localizada na Ásia?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12312",
-    "categoryId": "123",
-    "content": "O deserto do Saara fica na África?",
+    "content": "O rio Amazonas está localizado na América do Sul?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12313",
+    "id": "12312",
     "categoryId": "123",
-    "content": "A Austrália é um continente?",
+    "content": "A Grande Muralha da China tem mais de 2000 anos?",
     "image": "",
     "correct": true
   },
   {
     "id": "12314",
     "categoryId": "123",
-    "content": "A Rússia é o maior país do mundo em área?",
+    "content": "A Terra tem cinco oceanos?",
     "image": "",
     "correct": true
   },
   {
     "id": "12315",
     "categoryId": "123",
-    "content": "A capital do Japão é Pequim?",
+    "content": "A Islândia é conhecida por sua atividade vulcânica?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12316",
     "categoryId": "123",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "A cidade de Veneza está situada em um grupo de ilhas?",
     "image": "",
     "correct": true
   },
   {
     "id": "12317",
     "categoryId": "123",
-    "content": "A muralha da China é visível do espaço?",
+    "content": "A cordilheira do Himalaia atravessa a Índia e o Nepal?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12318",
     "categoryId": "123",
-    "content": "A cidade de Veneza está localizada na França?",
+    "content": "O Kilimanjaro é o pico mais alto da África?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12319",
     "categoryId": "123",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
+    "content": "A Inglaterra não é uma ilha?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12320",
     "categoryId": "123",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
+    "content": "O rio Danúbio atravessa dez países?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12321",
     "categoryId": "123",
-    "content": "A lua é um planeta?",
+    "content": "O Canal do Panamá liga o Oceano Atlântico ao Pacífico?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12322",
     "categoryId": "123",
-    "content": "A internet foi inventada em 1990?",
+    "content": "Madagascar é a quarta maior ilha do mundo?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12323",
     "categoryId": "123",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
+    "content": "Os Alpes estão localizados na Europa?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12324",
     "categoryId": "123",
-    "content": "O sol gira em torno da Terra?",
+    "content": "O lago Baikal é o mais profundo do mundo?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12325",
     "categoryId": "123",
-    "content": "O idioma mais falado no mundo é o inglês?",
+    "content": "O Mar Morto é um dos lagos mais salgados do mundo?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12326",
     "categoryId": "123",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "O Equador é atravessado pela linha do equador?",
     "image": "",
     "correct": true
   },
   {
     "id": "12327",
     "categoryId": "123",
-    "content": "A muralha da China é visível do espaço?",
+    "content": "A Torre Eiffel está localizada em Paris?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12328",
     "categoryId": "123",
-    "content": "A cidade de Veneza está localizada na França?",
+    "content": "O idioma oficial do Brasil é o português?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
     "id": "12329",
     "categoryId": "123",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
+    "content": "A capital da Austrália é Sydney?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12330",
     "categoryId": "123",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
+    "content": "O Monte Everest está localizado na Austrália?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12331",
     "categoryId": "123",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
+    "content": "O deserto do Saara fica na América do Sul?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12332",
     "categoryId": "123",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
+    "content": "A Antártica é a maior floresta tropical do mundo?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12333",
     "categoryId": "123",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
+    "content": "O rio Amazonas é o mais curto do mundo?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12334",
     "categoryId": "123",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
+    "content": "A Grande Barreira de Coral é encontrada no Mar Negro?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12335",
     "categoryId": "123",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
+    "content": "A Torre de Pisa fica em Paris?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12336",
     "categoryId": "123",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
-    "image": "",
-    "correct": true
+    "content": "A Suíça tem uma costa marítima?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12337",
     "categoryId": "123",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
+    "content": "O Kilimanjaro está localizado na Ásia?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12338",
     "categoryId": "123",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
+    "content": "A cidade de Nova York é a capital dos EUA?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12339",
     "categoryId": "123",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
+    "content": "O Canal de Suez conecta o Mar Mediterrâneo ao Mar Báltico?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12340",
     "categoryId": "123",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
+    "content": "O deserto de Gobi fica na América do Norte?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12341",
     "categoryId": "123",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
+    "content": "O lago Baikal é o mais raso do mundo?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12342",
     "categoryId": "123",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
+    "content": "O rio Mississippi está na Europa?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12343",
     "categoryId": "123",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
+    "content": "A Torre Eiffel está localizada em Londres?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12344",
     "categoryId": "123",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
+    "content": "Madagascar é um país localizado na Europa?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12345",
     "categoryId": "123",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
+    "content": "O Mar Morto é o maior lago do mundo?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12346",
     "categoryId": "123",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
-    "image": "",
-    "correct": true
+    "content": "A Muralha da China está localizada no Japão?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12347",
     "categoryId": "123",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
+    "content": "A capital da Inglaterra é Paris?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12348",
     "categoryId": "123",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
+    "content": "O rio Sena atravessa Tóquio?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12349",
     "categoryId": "123",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
+    "content": "A África do Sul é um país da América do Sul?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "12350",
     "categoryId": "123",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
+    "content": "A Groenlândia está localizada no hemisfério sul?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "1241",
-    "categoryId": "124",
-    "content": "A série 'The Office' é uma produção americana?",
-    "image": "",
-    "correct": false
+    "categoryId": "123",
+    "content": "O deserto do Atacama é o mais úmido do mundo?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "1242",
-    "categoryId": "124",
-    "content": "O ator Robert Downey Jr. interpretou o Homem de Ferro?",
-    "image": "",
-    "correct": true
+    "categoryId": "123",
+    "content": "O idioma oficial dos Estados Unidos é o francês?",
+    "correct": false,
+    "image": ""
   },
   {
     "id": "1243",
-    "categoryId": "124",
+    "categoryId": "123",
     "content": "O filme 'Jurassic Park' foi lançado nos anos 90?",
     "image": "",
     "correct": false
   },
   {
     "id": "1244",
-    "categoryId": "124",
-    "content": "A cantora Adele é britânica?",
-    "image": "",
-    "correct": true
+    "categoryId": "1231294",
+    "content": "A Antártica é conhecida por seus desertos quentes?",
+    "correct": false,
+    "image": ""
   },
+
+
+
   {
     "id": "1245",
     "categoryId": "124",
-    "content": "O jogo 'Fortnite' foi lançado em 2017?",
+    "content": "O filme 'Titanic' ganhou 11 Oscars?",
     "image": "",
     "correct": true
   },
   {
     "id": "1246",
     "categoryId": "124",
-    "content": "A série 'Breaking Bad' foi estrelada por Bryan Cranston?",
+    "content": "O personagem 'Wolverine' faz parte do universo Marvel?",
     "image": "",
     "correct": true
   },
   {
     "id": "1247",
     "categoryId": "124",
-    "content": "A cantora Beyoncé nasceu nos Estados Unidos?",
+    "content": "Beyoncé foi membro do grupo Destiny's Child?",
     "image": "",
     "correct": true
   },
   {
     "id": "1248",
     "categoryId": "124",
-    "content": "O personagem James Bond é conhecido como 007?",
+    "content": "O livro 'Harry Potter' foi escrito por J.K. Rowling?",
     "image": "",
     "correct": true
   },
   {
     "id": "1249",
     "categoryId": "124",
-    "content": "A série 'Game of Thrones' é baseada nos livros de J.R.R. Tolkien?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12410",
-    "categoryId": "124",
-    "content": "Daniel Radcliffe interpretou Harry Potter?",
+    "content": "'Stranger Things' é uma série produzida pela Netflix?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12411",
+    "id": "1250",
     "categoryId": "124",
-    "content": "O filme 'Titanic' foi dirigido por Steven Spielberg?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12412",
-    "categoryId": "124",
-    "content": "A série 'Friends' tem 10 temporadas?",
+    "content": "O álbum 'Thriller' é de Michael Jackson?",
     "image": "",
     "correct": true
-  },
-  {
-    "id": "12413",
-    "categoryId": "124",
-    "content": "O personagem Batman pertence à Marvel?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12414",
-    "categoryId": "124",
-    "content": "O jogo Minecraft foi criado pela empresa Mojang?",
-    "image": "",
-    "correct": true
-  },
-  {
-    "id": "12415",
-    "categoryId": "124",
-    "content": "O filme 'Vingadores: Ultimato' foi lançado em 2019?",
-    "image": "",
-    "correct": true
-  },
-  {
-    "id": "12416",
-    "categoryId": "124",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12417",
-    "categoryId": "124",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12418",
-    "categoryId": "124",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12419",
-    "categoryId": "124",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12420",
-    "categoryId": "124",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12421",
-    "categoryId": "124",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
-    "image": "",
-    "correct": true
-  },
-  {
-    "id": "12422",
-    "categoryId": "124",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12423",
-    "categoryId": "124",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12424",
-    "categoryId": "124",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12425",
-    "categoryId": "124",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12426",
-    "categoryId": "124",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12427",
-    "categoryId": "124",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12428",
-    "categoryId": "124",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12429",
-    "categoryId": "124",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12430",
-    "categoryId": "124",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12431",
-    "categoryId": "124",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
-    "image": "",
-    "correct": true
-  },
-  {
-    "id": "12432",
-    "categoryId": "124",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12433",
-    "categoryId": "124",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12434",
-    "categoryId": "124",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12435",
-    "categoryId": "124",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12436",
-    "categoryId": "124",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12437",
-    "categoryId": "124",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12438",
-    "categoryId": "124",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12439",
-    "categoryId": "124",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12440",
-    "categoryId": "124",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12441",
-    "categoryId": "124",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
-    "image": "",
-    "correct": true
-  },
-  {
-    "id": "12442",
-    "categoryId": "124",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12443",
-    "categoryId": "124",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12444",
-    "categoryId": "124",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12445",
-    "categoryId": "124",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12446",
-    "categoryId": "124",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12447",
-    "categoryId": "124",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12448",
-    "categoryId": "124",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12449",
-    "categoryId": "124",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12450",
-    "categoryId": "124",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
   },
   {
     "id": "1251",
-    "categoryId": "125",
-    "content": "A batata é originária da América do Sul?",
+    "categoryId": "124",
+    "content": "O primeiro filme do Homem-Aranha foi lançado em 2002?",
     "image": "",
     "correct": true
   },
   {
     "id": "1252",
-    "categoryId": "125",
-    "content": "O basquete foi inventado no Canadá?",
+    "categoryId": "124",
+    "content": "O personagem Sherlock Holmes foi criado por Sir Arthur Conan Doyle?",
     "image": "",
     "correct": true
   },
   {
     "id": "1253",
-    "categoryId": "125",
-    "content": "A bebida Coca-Cola foi criada nos Estados Unidos?",
+    "categoryId": "124",
+    "content": "A série 'Game of Thrones' é baseada nos livros de George R.R. Martin?",
     "image": "",
     "correct": true
   },
   {
     "id": "1254",
-    "categoryId": "125",
-    "content": "A corrida de Fórmula 1 é um esporte motorizado?",
+    "categoryId": "124",
+    "content": "'The Simpsons' é uma animação americana?",
     "image": "",
     "correct": true
   },
   {
     "id": "1255",
-    "categoryId": "125",
-    "content": "O Halloween é comemorado em outubro?",
+    "categoryId": "124",
+    "content": "Madonna é conhecida como a 'Rainha do Pop'?",
     "image": "",
     "correct": true
   },
   {
     "id": "1256",
+    "categoryId": "124",
+    "content": "'Breaking Bad' ganhou 16 Emmys durante sua exibição?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1257",
+    "categoryId": "124",
+    "content": "A cantora Adele é britânica?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1258",
+    "categoryId": "124",
+    "content": "O filme 'Inception' (A Origem) foi dirigido por Christopher Nolan?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1259",
+    "categoryId": "124",
+    "content": "O filme 'Matrix' é conhecido por revolucionar os efeitos especiais no cinema?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1260",
+    "categoryId": "124",
+    "content": "Lady Gaga ganhou um Oscar pela melhor canção original em 2019?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1261",
+    "categoryId": "124",
+    "content": "'Star Wars' foi criado por George Lucas?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1262",
+    "categoryId": "124",
+    "content": "O filme 'Avatar' foi o primeiro a ultrapassar 2 bilhões de dólares em bilheteria?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1263",
+    "categoryId": "124",
+    "content": "'Friends' é uma das séries de TV mais populares dos anos 90?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1264",
+    "categoryId": "124",
+    "content": "O filme 'Black Panther' (Pantera Negra) faz parte do Universo Cinematográfico Marvel?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1265",
+    "categoryId": "124",
+    "content": "'Doctor Who' é uma famosa série de televisão britânica?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1266",
+    "categoryId": "124",
+    "content": "O grupo 'The Beatles' é originário do Reino Unido?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1267",
+    "categoryId": "124",
+    "content": "O filme 'Jurassic Park' foi dirigido por Steven Spielberg?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1268",
+    "categoryId": "124",
+    "content": "O álbum 'Back to Black' é de Amy Winehouse?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1269",
+    "categoryId": "124",
+    "content": "O personagem Batman pertence ao universo DC Comics?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1270",
+    "categoryId": "124",
+    "content": "O filme 'O Senhor dos Anéis' foi dirigido por George Lucas?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1271",
+    "categoryId": "124",
+    "content": "O filme 'Pulp Fiction' é baseado em uma história real?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1272",
+    "categoryId": "124",
+    "content": "Marilyn Monroe ganhou um Oscar por 'Os Homens Preferem as Loiras'?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1273",
+    "categoryId": "124",
+    "content": "O filme 'Titanic' é uma produção da década de 1970?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1274",
+    "categoryId": "124",
+    "content": "Justin Bieber é conhecido como o 'Rei do Rock'?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1275",
+    "categoryId": "124",
+    "content": "A série 'Game of Thrones' é baseada nos livros de J.R.R. Tolkien?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1276",
+    "categoryId": "124",
+    "content": "O filme 'Avatar' foi dirigido por Steven Spielberg?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1277",
+    "categoryId": "124",
+    "content": "O personagem 'Harry Potter' foi criado por Tolkien?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1278",
+    "categoryId": "124",
+    "content": "O filme 'La La Land' ganhou o Oscar de Melhor Filme em 2017?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1279",
+    "categoryId": "124",
+    "content": "O grupo musical 'Queen' é originário da Austrália?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1280",
+    "categoryId": "124",
+    "content": "O livro '1984' foi escrito por Aldous Huxley?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1281",
+    "categoryId": "124",
+    "content": "O filme 'Forest Gump' é uma sequência?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1282",
+    "categoryId": "124",
+    "content": "O cantor Bob Dylan é conhecido principalmente por suas habilidades de dança?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1283",
+    "categoryId": "124",
+    "content": "O filme 'Inception' (A Origem) ganhou 10 Oscars?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1284",
+    "categoryId": "124",
+    "content": "O seriado 'Chernobyl' é uma comédia leve?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1285",
+    "categoryId": "124",
+    "content": "A série 'Breaking Bad' é uma sitcom familiar?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1286",
+    "categoryId": "124",
+    "content": "O filme 'Spider-Man' de 2002 foi dirigido por Quentin Tarantino?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1287",
+    "categoryId": "124",
+    "content": "Madonna ganhou seu primeiro Grammy em 2019?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1288",
+    "categoryId": "124",
+    "content": "O jogo 'Fortnite' foi lançado pela Nintendo?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1289",
+    "categoryId": "124",
+    "content": "'The Walking Dead' é uma série sobre uma invasão alienígena?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1290",
+    "categoryId": "124",
+    "content": "A banda 'The Beatles' foi formada nos anos 2000?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1291",
+    "categoryId": "124",
+    "content": "O filme 'The Godfather' (O Poderoso Chefão) é uma comédia romântica?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1292",
+    "categoryId": "124",
+    "content": "O personagem 'Iron Man' é conhecido como Clark Kent?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1293",
+    "categoryId": "124",
+    "content": "A série 'Stranger Things' foi lançada nos anos 90?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1294",
+    "categoryId": "124",
+    "content": "A série 'Game of Thrones' terminou com 20 temporadas?",
+    "image": "",
+    "correct": false
+  },
+
+
+
+
+  {
+    "id": "1295",
+    "categoryId": "125",
+    "content": "A água ferve a 100 graus Celsius ao nível do mar?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1296",
     "categoryId": "125",
     "content": "O chocolate é feito a partir do cacau?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1257",
+    "id": "1297",
     "categoryId": "125",
-    "content": "O Brasil já sediou uma Copa do Mundo?",
+    "content": "O jogo de xadrez tem 64 casas?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1258",
+    "id": "1298",
     "categoryId": "125",
-    "content": "O tênis é jogado com uma bola maior que a de golfe?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "1259",
-    "categoryId": "125",
-    "content": "A Oktoberfest é uma festa tradicional da Alemanha?",
+    "content": "A Mona Lisa está exposta no Museu do Louvre?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12510",
+    "id": "1299",
     "categoryId": "125",
-    "content": "O café é uma das bebidas mais consumidas no mundo?",
+    "content": "A internet foi inventada no século XX?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12511",
+    "id": "1300",
     "categoryId": "125",
-    "content": "Os Jogos Olímpicos ocorrem a cada 4 anos?",
+    "content": "Existem sete cores no arco-íris?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12512",
+    "id": "1301",
     "categoryId": "125",
-    "content": "O basquete foi inventado nos Estados Unidos?",
+    "content": "O Taj Mahal fica na Índia?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12513",
+    "id": "1302",
     "categoryId": "125",
-    "content": "O sushi é originário do Japão?",
+    "content": "O Sudoku é um quebra-cabeça de números?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12514",
+    "id": "1303",
     "categoryId": "125",
-    "content": "O futebol é o esporte mais popular do mundo?",
+    "content": "Os cangurus são nativos da Austrália?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12515",
+    "id": "1304",
     "categoryId": "125",
-    "content": "A pizza foi inventada na Itália?",
+    "content": "A pizza foi originalmente criada na Itália?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12516",
+    "id": "1305",
     "categoryId": "125",
     "content": "O Monte Everest é a montanha mais alta do mundo?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12517",
+    "id": "1306",
     "categoryId": "125",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12518",
-    "categoryId": "125",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12519",
-    "categoryId": "125",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12520",
-    "categoryId": "125",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12521",
-    "categoryId": "125",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12522",
-    "categoryId": "125",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12523",
-    "categoryId": "125",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12524",
-    "categoryId": "125",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12525",
-    "categoryId": "125",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12526",
-    "categoryId": "125",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "A penicilina foi descoberta por Alexander Fleming?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12527",
+    "id": "1307",
     "categoryId": "125",
-    "content": "A muralha da China é visível do espaço?",
+    "content": "A Lua é o único satélite natural da Terra?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12528",
+    "id": "1308",
     "categoryId": "125",
-    "content": "A cidade de Veneza está localizada na França?",
+    "content": "O coração humano tem quatro câmaras?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12529",
+    "id": "1309",
     "categoryId": "125",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
+    "content": "Os pandas são nativos da China?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12530",
+    "id": "1310",
     "categoryId": "125",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
+    "content": "Veneza é famosa por seus canais navegáveis?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12531",
+    "id": "1311",
     "categoryId": "125",
-    "content": "A lua é um planeta?",
+    "content": "O Sol é uma estrela?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12532",
+    "id": "1312",
     "categoryId": "125",
-    "content": "A internet foi inventada em 1990?",
+    "content": "A harpa é um instrumento de corda?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12533",
+    "id": "1313",
     "categoryId": "125",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
+    "content": "O kiwi é nativo da Nova Zelândia?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12534",
+    "id": "1314",
     "categoryId": "125",
-    "content": "O sol gira em torno da Terra?",
+    "content": "O saquê é uma bebida alcoólica japonesa?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12535",
+    "id": "1315",
     "categoryId": "125",
-    "content": "O idioma mais falado no mundo é o inglês?",
+    "content": "A Capoeira é uma arte marcial brasileira?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12536",
+    "id": "1316",
     "categoryId": "125",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "A Torre de Pisa está localizada na Itália?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12537",
+    "id": "1317",
     "categoryId": "125",
-    "content": "A muralha da China é visível do espaço?",
+    "content": "O basquete foi inventado por James Naismith?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12538",
+    "id": "1318",
     "categoryId": "125",
-    "content": "A cidade de Veneza está localizada na França?",
+    "content": "O Nobel da Paz é um dos prêmios Nobel estabelecidos pelo testamento de Alfred Nobel?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12539",
+    "id": "1319",
     "categoryId": "125",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
+    "content": "A Grande Muralha da China é visível do espaço?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12540",
+    "id": "1320",
     "categoryId": "125",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
+    "content": "O elefante é o animal mais rápido da terra?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12541",
+    "id": "1321",
     "categoryId": "125",
-    "content": "A lua é um planeta?",
+    "content": "O vinho é destilado da uva?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12542",
+    "id": "1322",
     "categoryId": "125",
-    "content": "A internet foi inventada em 1990?",
+    "content": "A bússola aponta para o sul magnético?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12543",
+    "id": "1323",
     "categoryId": "125",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
+    "content": "Os humanos têm cinco sentidos?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12544",
+    "id": "1324",
     "categoryId": "125",
-    "content": "O sol gira em torno da Terra?",
+    "content": "A lua é maior que o sol?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12545",
+    "id": "1325",
     "categoryId": "125",
-    "content": "O idioma mais falado no mundo é o inglês?",
+    "content": "O chocolate branco contém cacau?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12546",
+    "id": "1326",
     "categoryId": "125",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "Os golfinhos são peixes?",
     "image": "",
-    "correct": true
+    "correct": false
   },
   {
-    "id": "12547",
+    "id": "1327",
     "categoryId": "125",
-    "content": "A muralha da China é visível do espaço?",
+    "content": "O kiwi é uma fruta originária do Sudeste Asiático?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12548",
+    "id": "1328",
     "categoryId": "125",
-    "content": "A cidade de Veneza está localizada na França?",
+    "content": "A vodka foi inventada na Austrália?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12549",
+    "id": "1329",
     "categoryId": "125",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
+    "content": "O Monte Rushmore retrata presidentes europeus?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12550",
+    "id": "1330",
     "categoryId": "125",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
+    "content": "A Torre Eiffel foi um presente dos EUA para a França?",
     "image": "",
     "correct": false
   },
   {
-    "id": "1261",
+    "id": "1331",
+    "categoryId": "125",
+    "content": "Papel é feito principalmente de plástico?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1332",
+    "categoryId": "125",
+    "content": "A Internet foi criada nos anos 1960?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1333",
+    "categoryId": "125",
+    "content": "O deserto do Saara está na Austrália?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1334",
+    "categoryId": "125",
+    "content": "Os camelos são nativos da Antártica?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1335",
+    "categoryId": "125",
+    "content": "Os cangurus são encontrados naturalmente na África?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1336",
+    "categoryId": "125",
+    "content": "O sumô é um esporte tradicionalmente americano?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1337",
+    "categoryId": "125",
+    "content": "O tomate é uma raiz?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1338",
+    "categoryId": "125",
+    "content": "O pinguim é um pássaro voador?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1339",
+    "categoryId": "125",
+    "content": "O Pandas são carnívoros?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1340",
+    "categoryId": "125",
+    "content": "O Titanic afundou em sua viagem inaugural de Nova York para Londres?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1341",
+    "categoryId": "125",
+    "content": "A girafa é o animal mais alto do oceano?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1342",
+    "categoryId": "125",
+    "content": "O urso polar é encontrado no deserto do Saara?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1343",
+    "categoryId": "125",
+    "content": "O DNA é feito de proteínas?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1344",
+    "categoryId": "125",
+    "content": "A Muralha da China foi construída para proteger contra a invasão marítima?",
+    "image": "",
+    "correct": false
+  },
+
+
+
+  {
+    "id": "1345",
     "categoryId": "126",
-    "content": "O leão é considerado o rei da selva?",
+    "content": "A fotosíntese é o processo pelo qual as plantas produzem energia?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1262",
+    "id": "1346",
     "categoryId": "126",
-    "content": "Os elefantes africanos são maiores que os asiáticos?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "1263",
-    "categoryId": "126",
-    "content": "Os camaleões podem mudar de cor para se camuflar?",
+    "content": "Os ursos hibernam durante o inverno?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1264",
+    "id": "1347",
     "categoryId": "126",
-    "content": "As tartarugas podem viver mais de 100 anos?",
+    "content": "O Grand Canyon está localizado nos Estados Unidos?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1265",
+    "id": "1348",
     "categoryId": "126",
-    "content": "Os crocodilos são mais antigos que os dinossauros?",
+    "content": "Os girassóis giram para acompanhar o movimento do sol?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1266",
+    "id": "1349",
     "categoryId": "126",
-    "content": "Os pinguins vivem na Antártica?",
+    "content": "O Monte Everest é parte da cordilheira do Himalaia?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1267",
+    "id": "1350",
     "categoryId": "126",
-    "content": "A tartaruga-marinha vive apenas em água doce?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "1268",
-    "categoryId": "126",
-    "content": "Os morcegos são os únicos mamíferos que voam?",
+    "content": "Os corais são seres vivos?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1269",
+    "id": "1351",
     "categoryId": "126",
-    "content": "Os elefantes são os maiores mamíferos terrestres?",
+    "content": "A camada de ozônio protege a Terra dos raios ultravioleta do sol?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12610",
+    "id": "1352",
     "categoryId": "126",
-    "content": "O urso polar vive no Ártico?",
+    "content": "Os cactos armazenam água para sobreviver em ambientes áridos?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12611",
+    "id": "1353",
     "categoryId": "126",
-    "content": "Os golfinhos são mamíferos?",
+    "content": "A Grande Barreira de Coral está localizada na Austrália?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12612",
+    "id": "1354",
     "categoryId": "126",
-    "content": "As zebras são encontradas na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12613",
-    "categoryId": "126",
-    "content": "As baleias são mamíferos marinhos?",
+    "content": "Os pinguins são encontrados apenas no hemisfério sul?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12614",
+    "id": "1355",
     "categoryId": "126",
-    "content": "A Amazônia é a maior floresta tropical do mundo?",
+    "content": "A chuva ácida é causada pela poluição do ar?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12615",
+    "id": "1356",
     "categoryId": "126",
-    "content": "Os tubarões são peixes cartilaginosos?",
+    "content": "O bambu pode crescer até 91 centímetros em um único dia?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12616",
+    "id": "1357",
     "categoryId": "126",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12617",
-    "categoryId": "126",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12618",
-    "categoryId": "126",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12619",
-    "categoryId": "126",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12620",
-    "categoryId": "126",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12621",
-    "categoryId": "126",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "A Amazônia é o maior bioma tropical do mundo?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12622",
+    "id": "1358",
     "categoryId": "126",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12623",
-    "categoryId": "126",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12624",
-    "categoryId": "126",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12625",
-    "categoryId": "126",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12626",
-    "categoryId": "126",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12627",
-    "categoryId": "126",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12628",
-    "categoryId": "126",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12629",
-    "categoryId": "126",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12630",
-    "categoryId": "126",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12631",
-    "categoryId": "126",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "Os lobos costumam viver em alcateias?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12632",
+    "id": "1359",
     "categoryId": "126",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12633",
-    "categoryId": "126",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12634",
-    "categoryId": "126",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12635",
-    "categoryId": "126",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12636",
-    "categoryId": "126",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12637",
-    "categoryId": "126",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12638",
-    "categoryId": "126",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12639",
-    "categoryId": "126",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12640",
-    "categoryId": "126",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12641",
-    "categoryId": "126",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "Os golfinhos usam ecolocalização para navegar e caçar?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12642",
+    "id": "1360",
     "categoryId": "126",
-    "content": "A muralha da China é visível do espaço?",
+    "content": "As árvores de sequoia estão entre as mais altas do mundo?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12643",
+    "id": "1361",
     "categoryId": "126",
-    "content": "A cidade de Veneza está localizada na França?",
+    "content": "Os biomas desérticos cobrem cerca de um quinto da superfície terrestre do planeta?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12644",
+    "id": "1362",
     "categoryId": "126",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
+    "content": "Os manguezais são importantes para proteger as linhas costeiras da erosão?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12645",
+    "id": "1363",
     "categoryId": "126",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
+    "content": "Os vulcões podem criar ilhas quando entram em erupção no oceano?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12646",
+    "id": "1364",
     "categoryId": "126",
-    "content": "A lua é um planeta?",
+    "content": "A Mariposa Monarca migra até 3.000 milhas?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12647",
+    "id": "1365",
     "categoryId": "126",
-    "content": "A internet foi inventada em 1990?",
+    "content": "As medusas são compostas por mais de 90% de água?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12648",
+    "id": "1366",
     "categoryId": "126",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
+    "content": "O Saara é o maior deserto quente do mundo?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12649",
+    "id": "1367",
     "categoryId": "126",
-    "content": "O sol gira em torno da Terra?",
+    "content": "A aurora boreal é visível em regiões polares?",
     "image": "",
-    "correct": false
+    "correct": true
   },
   {
-    "id": "12650",
+    "id": "1368",
     "categoryId": "126",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "1271",
-    "categoryId": "127",
-    "content": "A luz viaja mais rápido que o som?",
+    "content": "Os espinhos são uma adaptação das plantas para minimizar a perda de água?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1272",
-    "categoryId": "127",
-    "content": "Os planetas do sistema solar giram em torno do Sol?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "1273",
-    "categoryId": "127",
-    "content": "A água é composta por dois átomos de hidrogênio e um de oxigênio?",
+    "id": "1369",
+    "categoryId": "126",
+    "content": "Os camelos têm reservas de gordura em suas corcovas para sobreviver em desertos?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1274",
+    "id": "1370",
+    "categoryId": "126",
+    "content": "O oceano Atlântico é o maior oceano do mundo?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1371",
+    "categoryId": "126",
+    "content": "Os ursos polares vivem no Antártico?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1372",
+    "categoryId": "126",
+    "content": "As bananas crescem em árvores?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1373",
+    "categoryId": "126",
+    "content": "Os tubarões podem respirar fora da água?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1374",
+    "categoryId": "126",
+    "content": "A lava é mais fria que o gelo?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1375",
+    "categoryId": "126",
+    "content": "A fotossíntese ocorre à noite?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1376",
+    "categoryId": "126",
+    "content": "Os morcegos são aves?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1377",
+    "categoryId": "126",
+    "content": "Os peixes vivem exclusivamente em água salgada?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1378",
+    "categoryId": "126",
+    "content": "O Monte Everest está localizado na Austrália?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1379",
+    "categoryId": "126",
+    "content": "O deserto do Saara tem um clima predominantemente frio?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1380",
+    "categoryId": "126",
+    "content": "As árvores de bambu são consideradas plantas carnívoras?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1381",
+    "categoryId": "126",
+    "content": "O rinoceronte é um animal conhecido por sua capacidade de voar?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1382",
+    "categoryId": "126",
+    "content": "Os pinguins são nativos do Ártico?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1383",
+    "categoryId": "126",
+    "content": "A água do oceano é potável sem tratamento?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1384",
+    "categoryId": "126",
+    "content": "Os cangurus são encontrados naturalmente na África?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1385",
+    "categoryId": "126",
+    "content": "O gelo é mais pesado que a água?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1386",
+    "categoryId": "126",
+    "content": "Os vulcões só entram em erupção durante o dia?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1387",
+    "categoryId": "126",
+    "content": "Os girassóis são azuis?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1388",
+    "categoryId": "126",
+    "content": "Os elefantes são os menores mamíferos terrestres?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1389",
+    "categoryId": "126",
+    "content": "As cobras têm pálpebras?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1390",
+    "categoryId": "126",
+    "content": "Os lobos são conhecidos por serem animais solitários?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1391",
+    "categoryId": "126",
+    "content": "A chuva ácida é benéfica para os ecossistemas aquáticos?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1392",
+    "categoryId": "126",
+    "content": "Os coelhos são répteis?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1393",
+    "categoryId": "126",
+    "content": "O bambu é uma espécie de animal marinho?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1394",
+    "categoryId": "126",
+    "content": "As formigas são capazes de viver isoladamente sem uma colônia?",
+    "image": "",
+    "correct": false
+  },
+
+
+
+  {
+    "id": "1395",
     "categoryId": "127",
-    "content": "A Terra é redonda?",
+    "content": "O oxigênio é essencial para a respiração celular?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1275",
+    "id": "1396",
     "categoryId": "127",
-    "content": "A força da gravidade atrai os objetos para o centro da Terra?",
+    "content": "A água é uma molécula composta por dois átomos de hidrogênio e um de oxigênio?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1276",
+    "id": "1397",
     "categoryId": "127",
-    "content": "O oxigênio é necessário para a combustão?",
+    "content": "O DNA é responsável por armazenar as informações genéticas?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1277",
+    "id": "1398",
     "categoryId": "127",
-    "content": "Os dinossauros conviveram com os humanos?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "1278",
-    "categoryId": "127",
-    "content": "A gravidade mantém os planetas em órbita?",
+    "content": "A teoria da relatividade foi proposta por Albert Einstein?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1279",
+    "id": "1399",
     "categoryId": "127",
-    "content": "A velocidade da luz é maior que a do som?",
+    "content": "Os antibióticos são usados para combater infecções bacterianas?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12710",
+    "id": "1400",
     "categoryId": "127",
-    "content": "A água é composta por hidrogênio e oxigênio?",
+    "content": "A gravidade é a força que atrai objetos com massa entre si?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12711",
+    "id": "1401",
     "categoryId": "127",
-    "content": "O sol é uma estrela?",
+    "content": "O período de gestação de um elefante pode durar até 22 meses?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12712",
+    "id": "1402",
     "categoryId": "127",
-    "content": "A eletricidade é uma forma de energia mecânica?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12713",
-    "categoryId": "127",
-    "content": "Os humanos têm 206 ossos no corpo?",
+    "content": "Os planetas do sistema solar orbitam ao redor do sol?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12714",
+    "id": "1403",
     "categoryId": "127",
-    "content": "O DNA carrega informações genéticas?",
+    "content": "A fotossíntese converte dióxido de carbono e água em oxigênio e glicose?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12715",
+    "id": "1404",
     "categoryId": "127",
-    "content": "A Terra é o terceiro planeta do sistema solar?",
+    "content": "O som não pode se propagar no vácuo?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12716",
+    "id": "1405",
     "categoryId": "127",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "O nitrogênio compõe cerca de 78% da atmosfera terrestre?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12717",
+    "id": "1406",
     "categoryId": "127",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12718",
-    "categoryId": "127",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12719",
-    "categoryId": "127",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12720",
-    "categoryId": "127",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12721",
-    "categoryId": "127",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12722",
-    "categoryId": "127",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12723",
-    "categoryId": "127",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12724",
-    "categoryId": "127",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12725",
-    "categoryId": "127",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12726",
-    "categoryId": "127",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "A teoria da evolução por seleção natural foi co-desenvolvida por Charles Darwin?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12727",
+    "id": "1407",
     "categoryId": "127",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12728",
-    "categoryId": "127",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12729",
-    "categoryId": "127",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12730",
-    "categoryId": "127",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12731",
-    "categoryId": "127",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12732",
-    "categoryId": "127",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12733",
-    "categoryId": "127",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12734",
-    "categoryId": "127",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12735",
-    "categoryId": "127",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12736",
-    "categoryId": "127",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "O coração humano tem quatro câmaras?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12737",
+    "id": "1408",
     "categoryId": "127",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12738",
-    "categoryId": "127",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12739",
-    "categoryId": "127",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12740",
-    "categoryId": "127",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12741",
-    "categoryId": "127",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12742",
-    "categoryId": "127",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12743",
-    "categoryId": "127",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12744",
-    "categoryId": "127",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12745",
-    "categoryId": "127",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12746",
-    "categoryId": "127",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "A luz visível é apenas uma pequena parte do espectro eletromagnético?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12747",
+    "id": "1409",
     "categoryId": "127",
-    "content": "A muralha da China é visível do espaço?",
+    "content": "A vitamina C é importante para a reparação de tecidos no corpo?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1410",
+    "categoryId": "127",
+    "content": "Os elementos na última coluna da tabela periódica são gases nobres?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1411",
+    "categoryId": "127",
+    "content": "O sistema solar tem oito planetas?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1412",
+    "categoryId": "127",
+    "content": "O microscópio é um instrumento que permite a visualização de objetos muito pequenos?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1413",
+    "categoryId": "127",
+    "content": "O ciclo da água inclui evaporação, condensação e precipitação?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1414",
+    "categoryId": "127",
+    "content": "A química é a ciência que estuda a composição, estrutura e propriedades da matéria?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1415",
+    "categoryId": "127",
+    "content": "A genética é o ramo da ciência que estuda a hereditariedade?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1416",
+    "categoryId": "127",
+    "content": "O número atômico representa o número de prótons em um átomo?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1417",
+    "categoryId": "127",
+    "content": "A tabela periódica foi criada por Dmitri Mendeleev?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1418",
+    "categoryId": "127",
+    "content": "O ponto de ebulição da água diminui com o aumento da altitude?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1419",
+    "categoryId": "127",
+    "content": "As enzimas são catalisadores biológicos que aceleram as reações químicas no corpo?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1420",
+    "categoryId": "127",
+    "content": "Os humanos podem realizar a fotossíntese?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12748",
+    "id": "1421",
     "categoryId": "127",
-    "content": "A cidade de Veneza está localizada na França?",
+    "content": "O ouro é um gás nobre?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12749",
+    "id": "1422",
     "categoryId": "127",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
+    "content": "A lua é maior que o sol?",
     "image": "",
     "correct": false
   },
   {
-    "id": "12750",
+    "id": "1423",
     "categoryId": "127",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
+    "content": "O oxigênio é o elemento mais abundante no corpo humano?",
     "image": "",
     "correct": false
   },
   {
-    "id": "1281",
+    "id": "1424",
+    "categoryId": "127",
+    "content": "O sangue humano é azul quando desoxigenado?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1425",
+    "categoryId": "127",
+    "content": "O DNA é composto principalmente de proteínas?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1426",
+    "categoryId": "127",
+    "content": "A água é um elemento químico?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1427",
+    "categoryId": "127",
+    "content": "O helio é um metal pesado?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1428",
+    "categoryId": "127",
+    "content": "Plutão é o maior planeta do sistema solar?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1429",
+    "categoryId": "127",
+    "content": "As baleias são peixes?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1430",
+    "categoryId": "127",
+    "content": "O som pode viajar mais rápido no vácuo do que no ar?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1431",
+    "categoryId": "127",
+    "content": "A vitamina D é obtida principalmente através da dieta?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1432",
+    "categoryId": "127",
+    "content": "O fígado é principalmente um órgão muscular?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1433",
+    "categoryId": "127",
+    "content": "A pele é o órgão mais pesado do corpo humano?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1434",
+    "categoryId": "127",
+    "content": "Os insetos têm seis pares de pernas?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1435",
+    "categoryId": "127",
+    "content": "Os seres humanos têm mais de cinco sentidos?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1436",
+    "categoryId": "127",
+    "content": "O carbono é um gás à temperatura ambiente?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1437",
+    "categoryId": "127",
+    "content": "O ácido desoxirribonucleico é uma proteína complexa que armazena energia?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1438",
+    "categoryId": "127",
+    "content": "A Lua é um planeta?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1439",
+    "categoryId": "127",
+    "content": "O planeta Terra é perfeitamente esférico?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1440",
+    "categoryId": "127",
+    "content": "A camada de ozônio é composta principalmente de oxigênio?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1441",
+    "categoryId": "127",
+    "content": "A gravidade é uniforme em toda a superfície da Terra?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1442",
+    "categoryId": "127",
+    "content": "O cérebro humano é composto por mais de 90% de água?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1443",
+    "categoryId": "127",
+    "content": "O hidrogênio é o metal mais leve?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1444",
+    "categoryId": "127",
+    "content": "A teoria da relatividade demonstra que a Terra gira em torno do Sol?",
+    "image": "",
+    "correct": false
+  },
+
+
+
+  {
+    "id": "1445",
     "categoryId": "128",
-    "content": "A Revolução Industrial começou no século XVIII?",
+    "content": "A Revolução Francesa começou em 1789?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1282",
+    "id": "1446",
     "categoryId": "128",
-    "content": "O Tratado de Versalhes encerrou a Primeira Guerra Mundial?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "1283",
-    "categoryId": "128",
-    "content": "O Império Romano caiu em 476 d.C.?",
+    "content": "A Grande Muralha da China foi construída inicialmente para proteger contra invasões?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1284",
+    "id": "1447",
     "categoryId": "128",
-    "content": "A Guerra Fria foi um conflito indireto entre EUA e URSS?",
+    "content": "O Titanic afundou em 1912?",
     "image": "",
     "correct": true
   },
   {
-    "id": "1285",
-    "categoryId": "128",
-    "content": "O muro de Berlim caiu em 1989?",
-    "image": "",
-    "correct": true
-  },
-  {
-    "id": "1286",
-    "categoryId": "128",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "1287",
-    "categoryId": "128",
-    "content": "A Declaração de Independência dos EUA foi assinada em 1776?",
-    "image": "",
-    "correct": true
-  },
-  {
-    "id": "1288",
-    "categoryId": "128",
-    "content": "A Revolução Industrial começou na Inglaterra?",
-    "image": "",
-    "correct": true
-  },
-  {
-    "id": "1289",
-    "categoryId": "128",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12810",
+    "id": "1448",
     "categoryId": "128",
     "content": "A Primeira Guerra Mundial começou em 1914?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12811",
+    "id": "1449",
     "categoryId": "128",
-    "content": "A Revolução Francesa ocorreu no século XVIII?",
+    "content": "O Império Romano caiu em 476 d.C.?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12812",
+    "id": "1450",
     "categoryId": "128",
-    "content": "Júlio César foi um imperador romano?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12813",
-    "categoryId": "128",
-    "content": "Napoleão Bonaparte foi derrotado na Batalha de Waterloo?",
+    "content": "Os Estados Unidos declararam independência em 1776?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12814",
+    "id": "1451",
+    "categoryId": "128",
+    "content": "Martin Luther King Jr. liderou o movimento pelos direitos civis nos Estados Unidos?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1452",
+    "categoryId": "128",
+    "content": "A invenção da imprensa por Johannes Gutenberg foi no século XV?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1453",
+    "categoryId": "128",
+    "content": "A peste negra devastou a Europa no século XIV?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1454",
+    "categoryId": "128",
+    "content": "O feudalismo foi um sistema predominante na Europa medieval?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1455",
+    "categoryId": "128",
+    "content": "O Renascimento cultural começou na Itália no século XIV?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1456",
     "categoryId": "128",
     "content": "A Segunda Guerra Mundial terminou em 1945?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12815",
+    "id": "1457",
     "categoryId": "128",
-    "content": "Cristóvão Colombo descobriu a América em 1492?",
+    "content": "Cleópatra foi a última rainha do Egito?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12816",
+    "id": "1458",
     "categoryId": "128",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12817",
-    "categoryId": "128",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12818",
-    "categoryId": "128",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12819",
-    "categoryId": "128",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "O Muro de Berlim caiu em 1989?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12820",
+    "id": "1459",
     "categoryId": "128",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12821",
-    "categoryId": "128",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12822",
-    "categoryId": "128",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12823",
-    "categoryId": "128",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12824",
-    "categoryId": "128",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12825",
-    "categoryId": "128",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12826",
-    "categoryId": "128",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12827",
-    "categoryId": "128",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12828",
-    "categoryId": "128",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12829",
-    "categoryId": "128",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "A Guerra Fria foi caracterizada pela rivalidade entre os Estados Unidos e a União Soviética?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12830",
+    "id": "1460",
     "categoryId": "128",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12831",
-    "categoryId": "128",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12832",
-    "categoryId": "128",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12833",
-    "categoryId": "128",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12834",
-    "categoryId": "128",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12835",
-    "categoryId": "128",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12836",
-    "categoryId": "128",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12837",
-    "categoryId": "128",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12838",
-    "categoryId": "128",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12839",
-    "categoryId": "128",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "O código de leis mais antigo que se conhece é o Código de Hamurabi?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12840",
+    "id": "1461",
     "categoryId": "128",
-    "content": "A muralha da China é visível do espaço?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12841",
-    "categoryId": "128",
-    "content": "A cidade de Veneza está localizada na França?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12842",
-    "categoryId": "128",
-    "content": "O chocolate foi originalmente descoberto na Austrália?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12843",
-    "categoryId": "128",
-    "content": "O Polo Norte é mais frio que o Polo Sul?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12844",
-    "categoryId": "128",
-    "content": "A lua é um planeta?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12845",
-    "categoryId": "128",
-    "content": "A internet foi inventada em 1990?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12846",
-    "categoryId": "128",
-    "content": "Os humanos podem respirar normalmente no espaço sem ajuda?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12847",
-    "categoryId": "128",
-    "content": "O sol gira em torno da Terra?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12848",
-    "categoryId": "128",
-    "content": "O idioma mais falado no mundo é o inglês?",
-    "image": "",
-    "correct": false
-  },
-  {
-    "id": "12849",
-    "categoryId": "128",
-    "content": "O Monte Everest é a montanha mais alta do mundo?",
+    "content": "A Batalha de Waterloo marcou a derrota final de Napoleão?",
     "image": "",
     "correct": true
   },
   {
-    "id": "12850",
+    "id": "1462",
     "categoryId": "128",
-    "content": "A muralha da China é visível do espaço?",
+    "content": "O período conhecido como Idade dos Metais precedeu a Idade do Bronze?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1463",
+    "categoryId": "128",
+    "content": "O Império Inca foi conquistado por Francisco Pizarro?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1464",
+    "categoryId": "128",
+    "content": "A escrita cuneiforme é uma das formas mais antigas de escrita desenvolvida pelos sumérios?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1465",
+    "categoryId": "128",
+    "content": "A Revolução Industrial começou na Inglaterra no século XVIII?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1466",
+    "categoryId": "128",
+    "content": "A Guerra de Secessão, ou Guerra Civil Americana, ocorreu no século XIX?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1467",
+    "categoryId": "128",
+    "content": "Gandhi liderou o movimento de independência contra o domínio britânico na Índia?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1468",
+    "categoryId": "128",
+    "content": "A Declaração dos Direitos do Homem e do Cidadão foi adotada durante a Revolução Francesa?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1469",
+    "categoryId": "128",
+    "content": "O Império Bizantino foi inicialmente parte do Império Romano do Oriente?",
+    "image": "",
+    "correct": true
+  },
+  {
+    "id": "1470",
+    "categoryId": "128",
+    "content": "A internet foi inventada no período medieval?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1471",
+    "categoryId": "128",
+    "content": "O Império Mongol foi fundado por Genghis Khan no século XX?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1472",
+    "categoryId": "128",
+    "content": "A Torre Eiffel foi construída durante o Império Romano?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1473",
+    "categoryId": "128",
+    "content": "O homem pisou na lua pela primeira vez no século XVIII?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1474",
+    "categoryId": "128",
+    "content": "O Coliseu de Roma foi utilizado para combates de naves espaciais?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1475",
+    "categoryId": "128",
+    "content": "Os dinossauros e humanos coexistiram na mesma era?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1476",
+    "categoryId": "128",
+    "content": "A Grande Depressão ocorreu no início do século XXI?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1477",
+    "categoryId": "128",
+    "content": "O Renascimento ocorreu imediatamente após a Segunda Guerra Mundial?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1478",
+    "categoryId": "128",
+    "content": "A escrita foi inventada pelos vikings?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1479",
+    "categoryId": "128",
+    "content": "A Revolução Americana foi liderada por Napoleão Bonaparte?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1480",
+    "categoryId": "128",
+    "content": "A pólvora foi inicialmente usada como tempero na culinária medieval?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1481",
+    "categoryId": "128",
+    "content": "O Titanic foi o primeiro navio a navegar ao redor do mundo?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1482",
+    "categoryId": "128",
+    "content": "A primeira guerra mundial começou no ano 2000?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1483",
+    "categoryId": "128",
+    "content": "O Muro de Berlim foi construído para promover o turismo?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1484",
+    "categoryId": "128",
+    "content": "Cleópatra foi rainha da Inglaterra?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1485",
+    "categoryId": "128",
+    "content": "O Império Inca estava localizado na Europa?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1486",
+    "categoryId": "128",
+    "content": "A Idade Média é conhecida por seus avanços tecnológicos rápidos?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1487",
+    "categoryId": "128",
+    "content": "O telefone foi inventado na Roma Antiga?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1488",
+    "categoryId": "128",
+    "content": "Os Estados Unidos foram colonizados exclusivamente pelos vikings?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1489",
+    "categoryId": "128",
+    "content": "A Batalha de Waterloo aconteceu no continente australiano?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1490",
+    "categoryId": "128",
+    "content": "Leonardo da Vinci foi um famoso DJ e produtor musical do Renascimento?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1491",
+    "categoryId": "128",
+    "content": "A eletricidade foi descoberta durante a Idade da Pedra?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1492",
+    "categoryId": "128",
+    "content": "A internet foi um projeto desenvolvido durante a Guerra de Troia?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1493",
+    "categoryId": "128",
+    "content": "A primeira forma de escrita foi o emoji usado pelos egípcios antigos?",
+    "image": "",
+    "correct": false
+  },
+  {
+    "id": "1494",
+    "categoryId": "128",
+    "content": "A Lua foi parte do território romano segundo o tratado de Roma?",
     "image": "",
     "correct": false
   }
